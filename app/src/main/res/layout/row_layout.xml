@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_marginTop="100dp"
+    android:layout_height="60dp"
+    android:orientation="horizontal"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/name_my"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Name" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:id="@+id/contact_my"
+        android:layout_width="80dp"
+        android:text="Contact Number"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/type_my"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Type" />
+    <TextView
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:id="@+id/date_my"
+        android:layout_width="80dp"
+        android:layout_height="match_parent"
+        android:text="Date"/>
+
+
+</LinearLayout>

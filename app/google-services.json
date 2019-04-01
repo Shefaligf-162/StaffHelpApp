@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608974443716",
+    "firebase_url": "https://staffhelpapp2.firebaseio.com",
+    "project_id": "staffhelpapp2",
+    "storage_bucket": "staffhelpapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608974443716:android:c2181ec7ff96e4b5",
+        "android_client_info": {
+          "package_name": "com.example.shefali.staffhelpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608974443716-098q1ollv8gktn4b9rrtdf9gstvtlrp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shefali.staffhelpapp",
+            "certificate_hash": "0f2203097d07db1219c14b765198958dba767c19"
+          }
+        },
+        {
+          "client_id": "608974443716-m1d95lpj63hgh85nbkk18udlecfomqmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7iWNgDvEUbm4I8t3Q47jFfz9KOGYFlVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608974443716-m1d95lpj63hgh85nbkk18udlecfomqmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
